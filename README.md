@@ -7,7 +7,7 @@
 
 ### Description
 
-- Create database with MySQL.
+- We are beginning to become familiar with NoSQL databases.
 
 
 ### Level 1
